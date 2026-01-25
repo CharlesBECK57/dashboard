@@ -1,4 +1,5 @@
-# dashboard
+# Projet Final
+
 projet final
 Dashboard Analytics - Présentation
 Vue d'ensemble : 
@@ -39,3 +40,4 @@ Lancement : Il faut runner dans le terminal "streamlit run dashboard_laurent.py"
 J'éspère que mon dashboard va te plaire. 
 
 Charles
+
